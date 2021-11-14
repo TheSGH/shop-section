@@ -7,7 +7,7 @@ Blocks:
   1:
     material: "BOOKSHELF"
     buy: 90.00
-    sell: 5.00
+    sell: 10.00
   2:
     material: "HAY_BLOCK"
     buy: 40.00
@@ -275,22 +275,22 @@ Blocks:
   68:
     material: "NETHER_BRICK_SLAB"
     buy: 0.20
-    sell: 0.05
+    sell: 0.07
   69:
     material: "NETHER_BRICK_STAIRS"
     buy: 0.40
-    sell: 0.10
+    sell: 0.14
   70:
     material: "NETHER_BRICKS"
     buy: 0.40
-    sell: 0.10
+    sell: 0.14
   71:
     material: "RED_NETHER_BRICK_SLAB"
     buy: 2.00
     sell: 1.00
   72:
     material: "RED_NETHER_BRICK_STAIRS"
-    buy: 4.00
+    buy: 2.00
     sell: 1.00
   73:
     material: "RED_NETHER_BRICKS"
@@ -319,83 +319,83 @@ Blocks:
   79:
     material: "PRISMARINE_BRICK_SLAB"
     buy: 12.00
-    sell: 6.25
+    sell: 3.25
   80:
     material: "PRISMARINE_BRICK_STAIRS"
     buy: 12.00
-    sell: 6.25
+    sell: 4.25
   81:
     material: "PRISMARINE_BRICKS"
     buy: 12.00
-    sell: 6.25
+    sell: 4.25
   82:
     material: "DARK_PRISMARINE"
     buy: 14.00
-    sell: 7.00
+    sell: 6.00
   83:
     material: "DARK_PRISMARINE_SLAB"
     buy: 7.00
     sell: 3.50
   84:
     material: "DARK_PRISMARINE_STAIRS"
-    buy: 67.26
-    sell: 16.82
+    buy: 14.05
+    sell: 6.05
   85:
     material: "PURPUR_BLOCK"
-    buy: 3.31
-    sell: 0.83
+    buy: 15.00
+    sell: 3.5
   86:
     material: "PURPUR_SLAB"
-    buy: 1.74
-    sell: 0.44
+    buy: 7.50
+    sell: 1.36
   87:
     material: "PURPUR_STAIRS"
-    buy: 3.48
-    sell: 0.87
+    buy: 15.00
+    sell: 3.5
   88:
     material: "QUARTZ_BRICKS"
-    buy: 145.87
-    sell: 36.47
+    buy: 12.00
+    sell: 10.00
   89:
     material: "QUARTZ_SLAB"
-    buy: 72.94
-    sell: 18.24
+    buy: 4.00
+    sell: 3.00
   90:
     material: "QUARTZ_STAIRS"
-    buy: 145.87
-    sell: 36.47
+    buy: 4.00
+    sell: 6.00
   91:
     material: "RED_SAND"
-    buy: 8
-    sell: 2
+    buy: 0.99
+    sell: 0.25
   92:
     material: "SAND"
-    buy: 6
-    sell: 1.5
+    buy: 0.98
+    sell: 0.10
   93:
     material: "SANDSTONE"
-    buy: 12
-    sell: 3
+    buy: 1.25
+    sell: 0.20
   94:
     material: "SANDSTONE_SLAB"
-    buy: 6.3
-    sell: 1.58
+    buy: 0.63
+    sell: 0.10
   95:
     material: "SANDSTONE_STAIRS"
-    buy: 12.6
-    sell: 3.15
+    buy: 1.25
+    sell: 0.20
   96:
     material: "SMOOTH_SANDSTONE"
-    buy: 12.6
-    sell: 3.15
+    buy: 2.50
+    sell: 0.30
   97:
     material: "SMOOTH_SANDSTONE_SLAB"
-    buy: 6.62
-    sell: 1.66
+    buy: 1.63
+    sell: 0.15
   98:
     material: "SMOOTH_SANDSTONE_STAIRS"
     buy: 13.23
-    sell: 3.31
+    sell: 
   99:
     material: "RED_SANDSTONE"
     buy: 33.6
