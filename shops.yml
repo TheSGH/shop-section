@@ -286,16 +286,16 @@ Blocks:
     sell: 0.10
   71:
     material: "RED_NETHER_BRICK_SLAB"
-    buy: 2.00
-    sell: 1.00
+    buy: 0.40
+    sell: 0.10
   72:
     material: "RED_NETHER_BRICK_STAIRS"
-    buy: 4.00
-    sell: 1.00
+    buy: 0.47
+    sell: 0.17
   73:
     material: "RED_NETHER_BRICKS"
-    buy: 4.00
-    sell: 1.00
+    buy: 0.44
+    sell: 0.14
   74:
     material: "CRYING_OBSIDIAN"
     buy: 30.00
