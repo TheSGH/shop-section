@@ -450,226 +450,290 @@ Blocks:
     buy: 22.05
     sell: 5.52
   112:
+    material: "WHITE_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  113:
+    material: "ORANGE_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  114:
+    material: "MAGENTA_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  115:
+    material: "LIGHT_BLUE_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  116:
+    material: "YELLOW_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  117:
+    material: "LIME_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  118:
+    material: "PINK_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  119:
+    material: "GRAY_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  120:
+    material: "LIGHT_GRAY_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  121:
+    material: "CYAN_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  122:
+    material: "PURPLE_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  123:
+    material: "BLUE_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  124:
+    material: "BROWN_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  125:
+    material: "GREEN_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  126:
+    material: "RED_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  127:
+    material: "BLACK_TERRACOTTA"
+    buy: 22.05
+    sell: 5.52
+  128:
     material: "ACACIA_LOG"
     buy: 3
     sell: 0.75
-  113:
+  129:
     material: "ACACIA_PLANKS"
     buy: 1.11
     sell: 0.28
-  114:
+  130:
     material: "ACACIA_SLAB"
     buy: 0.58
     sell: 0.15
-  115:
+  131:
     material: "ACACIA_STAIRS"
     buy: 1.74
     sell: 0.44
-  116:
+  132:
     material: "ACACIA_WOOD"
     buy: 4.2
     sell: 1.05
-  117:
+  133:
     material: "BIRCH_LOG"
     buy: 3
     sell: 0.75
-  118:
+  134:
     material: "BIRCH_PLANKS"
     buy: 1.11
     sell: 0.28
-  119:
+  135:
     material: "BIRCH_SLAB"
     buy: 0.58
     sell: 0.15
-  120:
+  136:
     material: "BIRCH_STAIRS"
     buy: 1.74
     sell: 0.44
-  121:
+  137:
     material: "BIRCH_WOOD"
     buy: 4.2
     sell: 1.05
-  122:
+  138:
     material: "CRIMSON_HYPHAE"
     buy: 4.2
     sell: 1.05
-  123:
+  139:
     material: "CRIMSON_PLANKS"
     buy: 0.79
     sell: 0.2
-  124:
+  140:
     material: "CRIMSON_SLAB"
     buy: 0.42
     sell: 0.11
-  125:
+  141:
     material: "CRIMSON_STAIRS"
     buy: 1.25
     sell: 0.32
-  126:
+  142:
     material: "CRIMSON_STEM"
     buy: 3
     sell: 0.75
-  127:
+  143:
     material: "DARK_OAK_LOG"
     buy: 3
     sell: 0.75
-  128:
+  144:
     material: "DARK_OAK_PLANKS"
     buy: 1.11
     sell: 0.28
-  129:
+  145:
     material: "DARK_OAK_SLAB"
     buy: 0.58
     sell: 0.15
-  130:
+  146:
     material: "DARK_OAK_STAIRS"
     buy: 1.74
     sell: 0.44
-  131:
+  147:
     material: "DARK_OAK_WOOD"
     buy: 4.2
     sell: 1.05
-  132:
+  148:
     material: "JUNGLE_LOG"
     buy: 3
     sell: 0.75
-  133:
+  149:
     material: "JUNGLE_PLANKS"
     buy: 1.11
     sell: 0.28
-  134:
+  150:
     material: "JUNGLE_SLAB"
     buy: 0.58
     sell: 0.15
-  135:
+  151:
     material: "JUNGLE_STAIRS"
     buy: 1.74
     sell: 0.44
-  136:
+  152:
     material: "JUNGLE_WOOD"
     buy: 4.2
     sell: 1.05
-  137:
+  153:
     material: "OAK_LOG"
     buy: 3
     sell: 0.75
-  138:
+  154:
     material: "OAK_PLANKS"
     buy: 1.11
     sell: 0.28
-  139:
+  155:
     material: "OAK_SLAB"
     buy: 0.58
     sell: 0.15
-  140:
+  156:
     material: "OAK_STAIRS"
     buy: 1.74
     sell: 0.44
-  141:
+  157:
     material: "OAK_WOOD"
     buy: 4.2
     sell: 1.05
-  142:
+  158:
     material: "SPRUCE_LOG"
     buy: 3
     sell: 0.75
-  143:
+  159:
     material: "SPRUCE_PLANKS"
     buy: 1.11
     sell: 0.28
-  144:
+  160:
     material: "SPRUCE_SLAB"
     buy: 0.58
     sell: 0.15
-  145:
+  161:
     material: "SPRUCE_STAIRS"
     buy: 1.74
     sell: 0.44
-  146:
+  162:
     material: "SPRUCE_WOOD"
     buy: 4.2
     sell: 1.05
-  147:
+  163:
     material: "WARPED_HYPHAE"
     buy: 4.2
     sell: 1.05
-  148:
+  164:
     material: "WARPED_PLANKS"
     buy: 0.79
     sell: 0.2
-  149:
+  165:
     material: "WARPED_SLAB"
     buy: 0.42
     sell: 0.11
-  150:
+  166:
     material: "WARPED_STAIRS"
     buy: 1.25
     sell: 0.32
-  151:
+  167:
     material: "WARPED_STEM"
     buy: 3
     sell: 0.75
-  152:
+  168:
     material: "BLACK_WOOL"
     buy: 29.4
     sell: 7.35
-  153:
+  169:
     material: "BLUE_WOOL"
     buy: 29.4
     sell: 7.35
-  154:
+  170:
     material: "BROWN_WOOL"
     buy: 29.4
     sell: 7.35
-  155:
+  171:
     material: "CYAN_WOOL"
     buy: 29.4
     sell: 7.35
-  156:
+  172:
     material: "GRAY_WOOL"
     buy: 29.4
     sell: 7.35
-  157:
+  173:
     material: "GREEN_WOOL"
     buy: 29.4
     sell: 7.35
-  158:
+  174:
     material: "LIGHT_BLUE_WOOL"
     buy: 29.4
     sell: 7.35
-  159:
+  175:
     material: "LIGHT_GRAY_WOOL"
     buy: 29.4
     sell: 7.35
-  160:
+  176:
     material: "LIME_WOOL"
     buy: 29.4
     sell: 7.35
-  161:
+  177:
     material: "MAGENTA_WOOL"
     buy: 29.4
     sell: 7.35
-  162:
+  178:
     material: "ORANGE_WOOL"
     buy: 29.4
     sell: 7.35
-  163:
+  179:
     material: "PINK_WOOL"
     buy: 29.4
     sell: 7.35
-  164:
+  180:
     material: "PURPLE_WOOL"
     buy: 29.4
     sell: 7.35
-  165:
+  181:
     material: "RED_WOOL"
     buy: 29.4
     sell: 7.35
-  166:
+  182:
     material: "WHITE_WOOL"
     buy: 29.4
     sell: 7.35
-  167:
+  183:
     material: "YELLOW_WOOL"
     buy: 29.4
     sell: 7.35
