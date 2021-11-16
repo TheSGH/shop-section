@@ -395,368 +395,368 @@ Blocks:
     sell: 0.15
   98:
     material: "SMOOTH_SANDSTONE_STAIRS"
-    buy: 13.23
-    sell: 
+    buy: 2.50
+    sell: 0.30
   99:
     material: "RED_SANDSTONE"
-    buy: 33.6
-    sell: 8.4
+    buy: 2
+    sell: 0.40
   100:
     material: "RED_SANDSTONE_SLAB"
-    buy: 17.64
-    sell: 4.41
+    buy: 1
+    sell: 0.20
   101:
     material: "RED_SANDSTONE_STAIRS"
-    buy: 35.28
-    sell: 8.82
+    buy: 2
+    sell: 0.40
   102:
     material: "SMOOTH_RED_SANDSTONE"
-    buy: 35.28
-    sell: 8.82
+    buy: 3
+    sell: 0.50
   103:
     material: "SMOOTH_RED_SANDSTONE_SLAB"
-    buy: 18.53
-    sell: 4.64
+    buy: 1.5
+    sell: 0.25
   104:
     material: "SMOOTH_RED_SANDSTONE_STAIRS"
-    buy: 37.05
-    sell: 9.27
+    buy: 3
+    sell: 0.50
   105:
     material: "STONE_BRICK_SLAB"
-    buy: 0.38
-    sell: 0.1
+    buy: 0.10
+    sell: 0.06
   106:
     material: "STONE_BRICK_STAIRS"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.20
+    sell: 0.10
   107:
     material: "STONE_BRICKS"
-    buy: 0.75
-    sell: 0.19
+    buy: 0.20
+    sell: 0.10
   108:
     material: "MOSSY_STONE_BRICK_SLAB"
-    buy: 0.4
-    sell: 0.1
+    buy: 0.25
+    sell: 0.12
   109:
     material: "MOSSY_STONE_BRICK_STAIRS"
-    buy: 8.55
-    sell: 2.14
+    buy: 0.50
+    sell: 0.24
   110:
     material: "MOSSY_STONE_BRICKS"
-    buy: 8.14
-    sell: 2.04
+    buy: 0.50
+    sell: 0.24
   111:
     material: "TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   112:
     material: "WHITE_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   113:
     material: "ORANGE_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   114:
     material: "MAGENTA_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   115:
     material: "LIGHT_BLUE_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   116:
     material: "YELLOW_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   117:
     material: "LIME_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   118:
     material: "PINK_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   119:
     material: "GRAY_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   120:
     material: "LIGHT_GRAY_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   121:
     material: "CYAN_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   122:
     material: "PURPLE_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   123:
     material: "BLUE_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   124:
     material: "BROWN_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   125:
     material: "GREEN_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   126:
     material: "RED_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.5
+    sell: 0.50
   127:
     material: "BLACK_TERRACOTTA"
-    buy: 22.05
-    sell: 5.52
+    buy: 2.50
+    sell: 0.50
   128:
     material: "ACACIA_LOG"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.38
   129:
     material: "ACACIA_PLANKS"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.20
+    sell: 0.20
   130:
     material: "ACACIA_SLAB"
-    buy: 0.58
+    buy: 0.60
     sell: 0.15
   131:
     material: "ACACIA_STAIRS"
-    buy: 1.74
-    sell: 0.44
+    buy: 1.80
+    sell: 0.40
   132:
     material: "ACACIA_WOOD"
-    buy: 4.2
-    sell: 1.05
+    buy: 10
+    sell: 1.00
   133:
     material: "BIRCH_LOG"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.38
   134:
     material: "BIRCH_PLANKS"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.20
+    sell: 0.20
   135:
     material: "BIRCH_SLAB"
-    buy: 0.58
+    buy: 0.60
     sell: 0.15
   136:
     material: "BIRCH_STAIRS"
-    buy: 1.74
-    sell: 0.44
+    buy: 1.80
+    sell: 0.40
   137:
     material: "BIRCH_WOOD"
-    buy: 4.2
-    sell: 1.05
+    buy: 10
+    sell: 1
   138:
     material: "CRIMSON_HYPHAE"
-    buy: 4.2
+    buy: 10
     sell: 1.05
   139:
     material: "CRIMSON_PLANKS"
-    buy: 0.79
-    sell: 0.2
+    buy: 1.30
+    sell: 0.25
   140:
     material: "CRIMSON_SLAB"
-    buy: 0.42
-    sell: 0.11
+    buy: 0.70
+    sell: 0.25
   141:
     material: "CRIMSON_STAIRS"
-    buy: 1.25
-    sell: 0.32
+    buy: 1.30
+    sell: 0.40
   142:
     material: "CRIMSON_STEM"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.35
   143:
     material: "DARK_OAK_LOG"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.38
   144:
     material: "DARK_OAK_PLANKS"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.20
+    sell: 0.20
   145:
     material: "DARK_OAK_SLAB"
-    buy: 0.58
+    buy: 0.60
     sell: 0.15
   146:
     material: "DARK_OAK_STAIRS"
-    buy: 1.74
-    sell: 0.44
+    buy: 1.80
+    sell: 0.40
   147:
     material: "DARK_OAK_WOOD"
-    buy: 4.2
-    sell: 1.05
+    buy: 10
+    sell: 1.00
   148:
     material: "JUNGLE_LOG"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.38
   149:
     material: "JUNGLE_PLANKS"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.20
+    sell: 0.38
   150:
     material: "JUNGLE_SLAB"
-    buy: 0.58
+    buy: 0.60
     sell: 0.15
   151:
     material: "JUNGLE_STAIRS"
-    buy: 1.74
-    sell: 0.44
+    buy: 1.80
+    sell: 0.40
   152:
     material: "JUNGLE_WOOD"
-    buy: 4.2
-    sell: 1.05
+    buy: 10
+    sell: 1.00
   153:
     material: "OAK_LOG"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.38
   154:
     material: "OAK_PLANKS"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.20
+    sell: 0.20
   155:
     material: "OAK_SLAB"
-    buy: 0.58
+    buy: 0.60
     sell: 0.15
   156:
     material: "OAK_STAIRS"
-    buy: 1.74
-    sell: 0.44
+    buy: 1.80
+    sell: 0.40
   157:
     material: "OAK_WOOD"
-    buy: 4.2
-    sell: 1.05
+    buy: 10
+    sell: 1.00
   158:
     material: "SPRUCE_LOG"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.38
   159:
     material: "SPRUCE_PLANKS"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.20
+    sell: 0.20
   160:
     material: "SPRUCE_SLAB"
-    buy: 0.58
+    buy: 0.60
     sell: 0.15
   161:
     material: "SPRUCE_STAIRS"
-    buy: 1.74
-    sell: 0.44
+    buy: 1.80
+    sell: 0.40
   162:
     material: "SPRUCE_WOOD"
-    buy: 4.2
-    sell: 1.05
+    buy: 10
+    sell: 1.00
   163:
     material: "WARPED_HYPHAE"
-    buy: 4.2
+    buy: 10
     sell: 1.05
   164:
     material: "WARPED_PLANKS"
-    buy: 0.79
+    buy: 1.20
     sell: 0.2
   165:
     material: "WARPED_SLAB"
-    buy: 0.42
-    sell: 0.11
+    buy: 0.60
+    sell: 0.17
   166:
     material: "WARPED_STAIRS"
-    buy: 1.25
-    sell: 0.32
+    buy: 1.90
+    sell: 0.45
   167:
     material: "WARPED_STEM"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 0.40
   168:
     material: "BLACK_WOOL"
-    buy: 29.4
-    sell: 7.35
-  169:
+    buy: 8
+    sell: 2
+   169:
     material: "BLUE_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   170:
     material: "BROWN_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   171:
     material: "CYAN_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   172:
     material: "GRAY_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   173:
     material: "GREEN_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   174:
     material: "LIGHT_BLUE_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   175:
     material: "LIGHT_GRAY_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   176:
     material: "LIME_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   177:
     material: "MAGENTA_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   178:
     material: "ORANGE_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   179:
     material: "PINK_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   180:
     material: "PURPLE_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   181:
     material: "RED_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
   182:
     material: "WHITE_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 1.8
   183:
     material: "YELLOW_WOOL"
-    buy: 29.4
-    sell: 7.35
+    buy: 8
+    sell: 2
 
 #==================== Decoration ====================#
 
 Decoration:
   1:
     material: "CHAIN"
-    buy: 26.71
-    sell: 6.68
+    buy: 1
+    sell: 0.30
   2:
     material: "FLOWER_POT"
-    buy: 69.46
-    sell: 17.37
+    buy: 2
+    sell: 0.2
   3:
     material: "HONEYCOMB_BLOCK"
-    buy: 13.23
-    sell: 3.31
+    buy: 40
+    sell: 5
   4:
     material: "JACK_O_LANTERN"
-    buy: 11.2
-    sell: 2.8
+    buy: 5
+    sell: 1.5
   5:
     material: "BRAIN_CORAL"
     buy: 5
@@ -799,466 +799,466 @@ Decoration:
     sell: 1.25
   15:
     material: "DEAD_BUBBLE_CORAL_BLOCK"
-    buy: 16
+    buy: 20
     sell: 4
   16:
     material: "DEAD_BUBBLE_CORAL_FAN"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 1
   17:
     material: "DEAD_FIRE_CORAL"
     buy: 5
     sell: 1.25
   18:
     material: "DEAD_FIRE_CORAL_BLOCK"
-    buy: 16
+    buy: 20
     sell: 4
   19:
     material: "DEAD_FIRE_CORAL_FAN"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 1
   20:
     material: "DEAD_HORN_CORAL"
     buy: 5
     sell: 1.25
   21:
     material: "DEAD_HORN_CORAL_BLOCK"
-    buy: 16
+    buy: 20
     sell: 4
   22:
     material: "DEAD_HORN_CORAL_FAN"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 1
   23:
     material: "DEAD_TUBE_CORAL"
     buy: 5
     sell: 1.25
   24:
     material: "DEAD_TUBE_CORAL_BLOCK"
-    buy: 16
-    sell: 4
+    buy: 20
+    sell: 5
   25:
     material: "DEAD_TUBE_CORAL_FAN"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 1
   26:
     material: "FIRE_CORAL"
     buy: 5
     sell: 1.25
   27:
     material: "FIRE_CORAL_BLOCK"
-    buy: 16
-    sell: 4
+    buy: 20
+    sell: 5
   28:
     material: "FIRE_CORAL_FAN"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 1
   29:
     material: "HORN_CORAL"
     buy: 5
     sell: 1.25
   30:
     material: "HORN_CORAL_BLOCK"
-    buy: 16
-    sell: 4
+    buy: 20
+    sell: 5
   31:
     material: "HORN_CORAL_FAN"
-    buy: 3
-    sell: 0.75
+    buy: 5
+    sell: 1
   32:
     material: "TUBE_CORAL"
     buy: 5
     sell: 1.25
   33:
     material: "TUBE_CORAL_BLOCK"
-    buy: 16
+    buy: 20
     sell: 4
   34:
     material: "TUBE_CORAL_FAN"
-    buy: 6
+    buy: 5
     sell: 1.5
   35:
     material: "ACACIA_LEAVES"
-    buy: 3
-    sell: 0.75
+    buy: 0.8
+    sell: 0.1
   36:
     material: "BIRCH_LEAVES"
-    buy: 3
-    sell: 0.75
+    buy: 0.8
+    sell: 0.1
   37:
     material: "DARK_OAK_LEAVES"
-    buy: 3
-    sell: 0.75
+    buy: 0.8
+    sell: 0.1
   38:
     material: "JUNGLE_LEAVES"
-    buy: 3
-    sell: 0.75
+    buy: 0.8
+    sell: 0.1
   39:
     material: "OAK_LEAVES"
-    buy: 3
-    sell: 0.75
+    buy: 0.8
+    sell: 0.1
   40:
     material: "SPRUCE_LEAVES"
-    buy: 3
-    sell: 0.75
+    buy: 0.8
+    sell: 0.1
   41:
     material: "ACACIA_SAPLING"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   42:
     material: "BIRCH_SAPLING"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   43:
     material: "DARK_OAK_SAPLING"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   44:
     material: "JUNGLE_SAPLING"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   45:
     material: "OAK_SAPLING"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   46:
     material: "SPRUCE_SAPLING"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   47:
     material: "TWISTING_VINES"
-    buy: 6
-    sell: 1.5
+    buy: 3
+    sell: 0.3
   48:
     material: "VINE"
-    buy: 7
-    sell: 1.75
-  49:
+    buy: 3
+    sell: 0.3
+    49:
     material: "WEEPING_VINES"
-    buy: 6
-    sell: 1.5
+    buy: 4
+    sell: 0.4
 
 #==================== Dyes ====================#
 
 Dyes:
   1:
     material: "BLACK_DYE"
-    buy: 5.25
-    sell: 1.32
+    buy: 1.00
+    sell: 0.50
   2:
     material: "BLUE_DYE"
-    buy: 1.05
-    sell: 0.27
+    buy: 1.00
+    sell: 0.50
   3:
     material: "BROWN_DYE"
-    buy: 6.3
-    sell: 1.58
+    buy: 1.00
+    sell: 0.50
   4:
     material: "CYAN_DYE"
-    buy: 0.61
-    sell: 0.16
+    buy: 1.00
+    sell: 0.50
   5:
     material: "GRAY_DYE"
-    buy: 3.62
-    sell: 0.91
+    buy: 1.00
+    sell: 0.50
   6:
     material: "GREEN_DYE"
-    buy: 0.11
-    sell: 0.03
+    buy: 1.00
+    sell: 0.50
   7:
     material: "LIGHT_BLUE_DYE"
-    buy: 1.05
-    sell: 0.27
+    buy: 1.00
+    sell: 0.50
   8:
     material: "LIGHT_GRAY_DYE"
-    buy: 1.05
-    sell: 0.27
+    buy: 1.00
+    sell: 0.50
   9:
     material: "LIME_DYE"
-    buy: 6.3
-    sell: 1.58
+    buy: 1.00
+    sell: 0.50
   10:
     material: "MAGENTA_DYE"
-    buy: 1.05
-    sell: 0.27
+    buy: 1.00
+    sell: 0.50
   11:
     material: "ORANGE_DYE"
     buy: 1.05
-    sell: 0.27
+    sell: 0.50
   12:
     material: "PINK_DYE"
-    buy: 1.05
-    sell: 0.27
+    buy: 1.00
+    sell: 0.50
   13:
     material: "PURPLE_DYE"
-    buy: 1.11
-    sell: 0.28
+    buy: 1.00
+    sell: 0.50
   14:
     material: "RED_DYE"
-    buy: 1.05
-    sell: 0.27
+    buy: 1.00
+    sell: 0.50
   15:
     material: "WHITE_DYE"
-    buy: 1.63
-    sell: 0.41
+    buy: 1.00
+    sell: 0.50
   16:
     material: "YELLOW_DYE"
-    buy: 0.7
-    sell: 0.18
+    buy: 1.00
+    sell: 0.50
   17:
     material: "AZURE_BLUET"
-    buy: 1
-    sell: 0.25
+    buy: 1.00
+    sell: 0.50
   18:
     material: "BLUE_ORCHID"
-    buy: 1
-    sell: 0.25
+    buy: 1.00
+    sell: 0.50
   19:
     material: "CORNFLOWER"
-    buy: 1
-    sell: 0.25
+    buy: 1.00
+    sell: 0.50
   20:
     material: "RED_TULIP"
-    buy: 1
-    sell: 0.25
+    buy: 1.00
+    sell: 0.50
   21:
     material: "SUNFLOWER"
-    buy: 1
-    sell: 0.25
+    buy: 1.00
+    sell: 0.50
   22:
     material: "INK_SAC"
-    buy: 5
-    sell: 1.25
+    buy: 2.00
+    sell: 0.80
 
 #==================== Enchanting ====================#
 
 Enchanting:
   1:
     material: "ENCHANTED_BOOK"
-    buy: 160
-    sell: 40
+    buy: -1
+    sell: 30
     enchantments:
     - "WATER_WORKER:1"
   2:
     material: "ENCHANTED_BOOK"
-    buy: 1944.81
-    sell: 486.21
+    buy: -1
+    sell: 100
     enchantments:
     - "DAMAGE_ARTHROPODS:5"
   3:
     material: "ENCHANTED_BOOK"
-    buy: 200
-    sell: 50
+    buy: 100
+    sell: 30
     enchantments:
     - "BINDING_CURSE:1"
   4:
     material: "ENCHANTED_BOOK"
-    buy: 1481.76
-    sell: 370.44
+    buy: -1
+    sell: 80
     enchantments:
     - "PROTECTION_EXPLOSIONS:4"
   5:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: -1
     sell: 50
     enchantments:
     - "CHANNELING:1"
   6:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 35
     enchantments:
     - "DEPTH_STRIDER:3"
   7:
     material: "ENCHANTED_BOOK"
-    buy: 972.41
-    sell: 243.11
+    buy: -1
+    sell: 100
     enchantments:
     - "DIG_SPEED:5"
   8:
     material: "ENCHANTED_BOOK"
-    buy: 926.1
-    sell: 231.53
+    buy: -1
+    sell: 90
     enchantments:
     - "PROTECTION_FALL:4"
   9:
     material: "ENCHANTED_BOOK"
-    buy: 336
-    sell: 84
+    buy: -1
+    sell: 40
     enchantments:
     - "FIRE_ASPECT:2"
   10:
     material: "ENCHANTED_BOOK"
-    buy: 926.1
-    sell: 231.53
+    buy: -1
+    sell: 45
     enchantments:
     - "PROTECTION_FIRE:4"
   11:
     material: "ENCHANTED_BOOK"
-    buy: 160
+    buy: -1
     sell: 40
     enchantments:
     - "ARROW_FIRE:1"
   12:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 80
     enchantments:
     - "LOOT_BONUS_BLOCKS:3"
   13:
     material: "ENCHANTED_BOOK"
-    buy: 336
-    sell: 84
+    buy: -1
+    sell: 45
     enchantments:
     - "FROST_WALKER:2"
   14:
     material: "ENCHANTED_BOOK"
-    buy: 3111.7
-    sell: 777.93
+    buy: -1
+    sell: 150
     enchantments:
     - "IMPALING:5"
   15:
     material: "ENCHANTED_BOOK"
-    buy: 200
+    buy: -1
     sell: 50
     enchantments:
     - "ARROW_INFINITE:1"
   16:
     material: "ENCHANTED_BOOK"
-    buy: 210
-    sell: 52.5
+    buy: -1
+    sell: 50
     enchantments:
     - "KNOCKBACK:2"
   17:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 55
     enchantments:
     - "LOOT_BONUS_MOBS:3"
   18:
     material: "ENCHANTED_BOOK"
-    buy: 441
-    sell: 110.25
+    buy: -1
+    sell: 100
     enchantments:
     - "LOYALTY:3"
   19:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 60
     enchantments:
     - "LUCK:3"
   20:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 60
     enchantments:
     - "LURE:3"
   21:
     material: "ENCHANTED_BOOK"
-    buy: 160
-    sell: 40
+    buy: -1
+    sell: 80
     enchantments:
     - "MENDING:1"
   22:
     material: "ENCHANTED_BOOK"
-    buy: 160
+    buy: -1
     sell: 40
     enchantments:
     - "MULTISHOT:1"
   23:
     material: "ENCHANTED_BOOK"
-    buy: 463.05
-    sell: 115.77
+    buy: -1
+    sell: 40
     enchantments:
     - "PIERCING:4"
   24:
     material: "ENCHANTED_BOOK"
-    buy: 972.41
-    sell: 243.11
+    buy: -1
+    sell: 80
     enchantments:
     - "ARROW_DAMAGE:5"
   25:
     material: "ENCHANTED_BOOK"
-    buy: 926.1
-    sell: 231.53
+    buy: -1
+    sell: 80
     enchantments:
     - "PROTECTION_PROJECTILE:4"
   26:
     material: "ENCHANTED_BOOK"
-    buy: 463.05
-    sell: 115.77
+    buy: -1
+    sell: 120
     enchantments:
     - "PROTECTION_ENVIRONMENTAL:4"
   27:
     material: "ENCHANTED_BOOK"
-    buy: 336
-    sell: 84
+    buy: -1
+    sell: 80
     enchantments:
     - "ARROW_KNOCKBACK:2"
   28:
     material: "ENCHANTED_BOOK"
-    buy: 441
-    sell: 110.25
+    buy: -1
+    sell: 60
     enchantments:
     - "QUICK_CHARGE:3"
   29:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 50
     enchantments:
     - "OXYGEN:3"
   30:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 120
     enchantments:
     - "RIPTIDE:3"
   31:
     material: "ENCHANTED_BOOK"
-    buy: 972.41
-    sell: 243.11
+    buy: -1
+    sell: 100
     enchantments:
     - "DAMAGE_ALL:5"
   32:
     material: "ENCHANTED_BOOK"
-    buy: 200
-    sell: 50
+    buy: -1
+    sell: 80
     enchantments:
     - "SILK_TOUCH:1"
   33:
     material: "ENCHANTED_BOOK"
-    buy: 1944.81
-    sell: 486.21
+    buy: -1
+    sell: 80
     enchantments:
     - "DAMAGE_UNDEAD:5"
   34:
     material: "ENCHANTED_BOOK"
-    buy: 1102.5
-    sell: 275.63
+    buy: 1000
+    sell: 500
     enchantments:
     - "SOUL_SPEED:3"
   35:
     material: "ENCHANTED_BOOK"
-    buy: 705.6
-    sell: 176.4
+    buy: -1
+    sell: 60
     enchantments:
     - "SWEEPING_EDGE:3"
   36:
     material: "ENCHANTED_BOOK"
-    buy: 882
-    sell: 220.5
+    buy: -1
+    sell: 80
     enchantments:
     - "THORNS:3"
   37:
     material: "ENCHANTED_BOOK"
-    buy: 441
-    sell: 110.25
+    buy: -1
+    sell: 80
     enchantments:
     - "DURABILITY:3"
   38:
     material: "ENCHANTED_BOOK"
-    buy: 200
-    sell: 50
+    buy: -1
+    sell: 60
     enchantments:
     - "VANISHING_CURSE:1"
 
@@ -1268,87 +1268,87 @@ Farming:
   1:
     material: "BAMBOO"
     buy: 0.1
-    sell: 0.03
+    sell: 0.01
   2:
     material: "BEE_NEST"
     buy: -1
-    sell: 10
+    sell: 50
   3:
     material: "BEEHIVE"
-    buy: 16.87
-    sell: 4.22
+    buy: 200
+    sell: 80
   4:
     material: "BEETROOT_SEEDS"
-    buy: 3
-    sell: 0.75
+    buy: 0.1
+    sell: 0.01
   5:
     material: "BROWN_MUSHROOM"
     buy: 2
-    sell: 0.5
+    sell: 0.1
   6:
     material: "CACTUS"
-    buy: 0.1
-    sell: 0.03
+    buy: 1
+    sell: 0.1
   7:
     material: "CARROT"
-    buy: 5
-    sell: 1.25
+    buy: 1
+    sell: 0.1
   8:
     material: "CHORUS_FLOWER"
-    buy: 1
-    sell: 0.25
+    buy: 2
+    sell: 0.2
   9:
     material: "CHORUS_FRUIT"
-    buy: 3
-    sell: 0.75
+    buy: 2
+    sell: 0.2
   10:
     material: "COCOA_BEANS"
-    buy: 6
-    sell: 1.5
+    buy: 1
+    sell: 0.1
   11:
     material: "CRIMSON_FUNGUS"
-    buy: 6
-    sell: 1.5
+    buy: 1
+    sell: 0.1
   12:
     material: "EGG"
     buy: 5
-    sell: 1.25
-  13:
+    sell: 0.4
+    13:
     material: "KELP"
-    buy: 0.1
-    sell: 0.03
+    buy: 0.8
+    sell: 0.1
   14:
     material: "LEATHER"
-    buy: 33.6
-    sell: 8.4
+    buy: 3
+    sell: 0.5
   15:
     material: "MELON"
-    buy: 9.45
-    sell: 2.37
+    buy: 2
+    sell: 0.5
   16:
     material: "MELON_SEEDS"
-    buy: 3
-    sell: 0.75
+    buy: 1
+    sell: 0.05
   17:
     material: "MELON_SLICE"
-    buy: 1
-    sell: 0.25
+    buy: 0.21
+    sell: 0.05
   18:
     material: "NETHER_WART"
-    buy: 3
-    sell: 0.75
+    buy: 1
+    sell: 0.1
   19:
     material: "POTATO"
-    buy: 5
-    sell: 1.25
+    buy: 1
+    sell: 0.1
   20:
     material: "PUMPKIN"
-    buy: 5
-    sell: 1.25
+    buy: 2
+    sell: 0.5
   21:
     material: "PUMPKIN_SEEDS"
-    buy: 1.19
-    sell: 0.3
+    buy: 1
+    sell: 0.24
   22:
     material: "RED_MUSHROOM"
     buy: 2
@@ -1356,95 +1356,95 @@ Farming:
   23:
     material: "SUGAR_CANE"
     buy: 0.1
-    sell: 0.03
+    sell: 0.02
   24:
     material: "WARPED_FUNGUS"
-    buy: 6
-    sell: 1.5
+    buy: 2
+    sell: 0.4
   25:
     material: "WHEAT"
-    buy: 5
-    sell: 1.25
+    buy: 1
+    sell: 0.1
   26:
     material: "WHEAT_SEEDS"
-    buy: 3
-    sell: 0.75
+    buy: 0.5
+    sell: 0.05
 
 #==================== Food ====================#
 
 Food:
   1:
     material: "APPLE"
-    buy: 10
-    sell: 2.5
+    buy: 5
+    sell: 1
   2:
     material: "BREAD"
-    buy: 15.75
-    sell: 3.94
+    buy: 3
+    sell: 0.4
   3:
     material: "CAKE"
-    buy: 240.68
-    sell: 60.17
+    buy: 20
+    sell: 2
   4:
     material: "COOKED_SALMON"
-    buy: 6.3
-    sell: 1.58
+    buy: 4
+    sell: 1
   5:
     material: "COOKIE"
-    buy: 2.1
-    sell: 0.53
+    buy: 2
+    sell: 0.2
   6:
     material: "HONEY_BOTTLE"
-    buy: 7.94
-    sell: 1.99
+    buy: 5
+    sell: 1
   7:
     material: "BAKED_POTATO"
-    buy: 5.25
-    sell: 1.32
+    buy: 2
+    sell: 0.9
   8:
     material: "COOKED_BEEF"
-    buy: 6.3
-    sell: 1.58
+    buy: 3
+    sell: 0.50
   9:
     material: "COOKED_CHICKEN"
-    buy: 6.3
-    sell: 1.58
+    buy: 3
+    sell: 0.50
   10:
     material: "COOKED_MUTTON"
-    buy: 6.3
-    sell: 1.58
+    buy: 3
+    sell: 0.50
   11:
     material: "COOKED_PORKCHOP"
-    buy: 6.3
-    sell: 1.58
+    buy: 3
+    sell: 0.50
   12:
     material: "COOKED_RABBIT"
-    buy: 6.3
-    sell: 1.58
+    buy: 3
+    sell: 0.50
   13:
     material: "BEEF"
-    buy: 6
-    sell: 1.5
+    buy: 2
+    sell: 0.4
   14:
     material: "CHICKEN"
-    buy: 6
-    sell: 1.5
+    buy: 2
+    sell: 0.4
   15:
     material: "MUTTON"
-    buy: 6
-    sell: 1.5
+    buy: 2
+    sell: 0.4
   16:
     material: "PORKCHOP"
-    buy: 6
-    sell: 1.5
+    buy: 2
+    sell: 0.4
   17:
     material: "RABBIT"
-    buy: 6
-    sell: 1.5
+    buy: 4
+    sell: 0.4
   18:
     material: "BEETROOT_SOUP"
-    buy: 38.72
-    sell: 9.68
+    buy: 5
+    sell: 1
 
 #==================== Mobs ====================#
 
