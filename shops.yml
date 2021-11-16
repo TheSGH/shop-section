@@ -7,7 +7,6 @@ Blocks:
   1:
     material: "BOOKSHELF"
     buy: 90.00
-
     sell: 10.00
   2:
     material: "HAY_BLOCK"
