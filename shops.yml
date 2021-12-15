@@ -1454,11 +1454,11 @@ Mobs:
     sell: 0.17
   2:
     material: "BLAZE_POWDER"
-    buy: 5
-    sell: 0.90
+    buy: -1
+    sell: 0.60
   3:
     material: "BLAZE_ROD"
-    buy: 10
+    buy: -1
     sell: 1.80
   4:
     material: "BONE"
@@ -1470,15 +1470,15 @@ Mobs:
     sell: 0.09
   6:
     material: "FERMENTED_SPIDER_EYE"
-    buy: 5
+    buy: 10
     sell: 0.90
   7:
     material: "GHAST_TEAR"
-    buy: 100
-    sell: 10
+    buy: -1
+    sell: 1
   8:
     material: "GUNPOWDER"
-    buy: 6
+    buy: -1
     sell: 0.60
   9:
     material: "MAGMA_CREAM"
@@ -1486,19 +1486,19 @@ Mobs:
     sell: 0.60
   10:
     material: "NAUTILUS_SHELL"
-    buy: 50
-    sell: 5
+    buy: -1
+    sell: 2
   11:
     material: "PHANTOM_MEMBRANE"
-    buy: 25
+    buy: -1
     sell: 2
   12:
     material: "RABBIT_FOOT"
-    buy: 50
-    sell: 10
+    buy: -1
+    sell: 1
   13:
     material: "RABBIT_HIDE"
-    buy: 8
+    buy: -1
     sell: 2
   14:
     material: "ROTTEN_FLESH"
@@ -1506,11 +1506,11 @@ Mobs:
     sell: 0.1
   15:
     material: "SPIDER_EYE"
-    buy: 3
+    buy: 5
     sell: 0.30
   16:
     material: "STRING"
-    buy: 3
+    buy: 6
     sell: 0.25
 
 #==================== Music ====================#
@@ -1518,56 +1518,56 @@ Mobs:
 Music:
   1:
     material: "MUSIC_DISC_11"
-    buy: 20
-    sell: 7
+    buy: -1
+    sell: 5
   2:
     material: "MUSIC_DISC_13"
-    buy: 15
+    buy: -1
     sell: 5
   3:
     material: "MUSIC_DISC_BLOCKS"
-    buy: 50
-    sell: 21
+    buy: -1
+    sell: 5
   4:
     material: "MUSIC_DISC_CAT"
-    buy: 100
-    sell: 40
+    buy: -1
+    sell: 5
   5:
     material: "MUSIC_DISC_CHIRP"
-    buy: 40
-    sell: 15
+    buy: -1
+    sell: 5
   6:
     material: "MUSIC_DISC_FAR"
-    buy: 70
-    sell: 30
+    buy: -1
+    sell: 5
   7:
     material: "MUSIC_DISC_MALL"
-    buy: 35
-    sell: 13
+    buy: -1
+    sell: 5
   8:
     material: "MUSIC_DISC_MELLOHI"
-    buy: 30
-    sell: 11
+    buy: -1
+    sell: 5
   9:
     material: "MUSIC_DISC_PIGSTEP"
-    buy: 250
-    sell: 100
+    buy: -1
+    sell: 20
   10:
     material: "MUSIC_DISC_STAL"
-    buy: 45
-    sell: 18
+    buy: -1
+    sell: 5
   11:
     material: "MUSIC_DISC_STRAD"
-    buy: 90
-    sell: 35
+    buy: -1
+    sell: 5
   12:
     material: "MUSIC_DISC_WAIT"
-    buy: 200
-    sell: 80
+    buy: -1
+    sell: 5
   13:
     material: "MUSIC_DISC_WARD"
-    buy: 25
-    sell: 9
+    buy: -1
+    sell: 5
     
 #==================== Ores ====================#
 
