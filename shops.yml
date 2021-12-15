@@ -1266,107 +1266,107 @@ Enchanting:
 Farming:
   1:
     material: "BAMBOO"
-    buy: 0.1
+    buy: -1
     sell: 0.01
   2:
     material: "BEE_NEST"
     buy: -1
-    sell: 50
+    sell: 5
   3:
     material: "BEEHIVE"
-    buy: 200
-    sell: 80
+    buy: -1
+    sell: 5
   4:
     material: "BEETROOT_SEEDS"
-    buy: 0.1
+    buy: -1
     sell: 0.01
   5:
     material: "BROWN_MUSHROOM"
-    buy: 2
+    buy: -1
     sell: 0.1
   6:
     material: "CACTUS"
-    buy: 1
+    buy: 2
     sell: 0.1
   7:
     material: "CARROT"
-    buy: 1
+    buy: 3
     sell: 0.1
   8:
     material: "CHORUS_FLOWER"
-    buy: 2
+    buy: -1
     sell: 0.2
   9:
     material: "CHORUS_FRUIT"
-    buy: 2
+    buy: -1
     sell: 0.2
   10:
     material: "COCOA_BEANS"
-    buy: 1
+    buy: 3
     sell: 0.1
   11:
     material: "CRIMSON_FUNGUS"
-    buy: 1
+    buy: -1
     sell: 0.1
   12:
     material: "EGG"
-    buy: 5
+    buy: 6
     sell: 0.4
     13:
     material: "KELP"
-    buy: 0.8
+    buy: 3
     sell: 0.1
   14:
     material: "LEATHER"
-    buy: 3
-    sell: 0.5
+    buy: 10
+    sell: 0.3
   15:
     material: "MELON"
-    buy: 2
+    buy: 6
     sell: 0.5
   16:
     material: "MELON_SEEDS"
-    buy: 1
+    buy: 3
     sell: 0.05
   17:
     material: "MELON_SLICE"
-    buy: 0.21
+    buy: 3
     sell: 0.05
   18:
     material: "NETHER_WART"
-    buy: 1
+    buy: -1
     sell: 0.1
   19:
     material: "POTATO"
-    buy: 1
+    buy: 3
     sell: 0.1
   20:
     material: "PUMPKIN"
-    buy: 2
+    buy: 6
     sell: 0.5
   21:
     material: "PUMPKIN_SEEDS"
-    buy: 1
+    buy: 5
     sell: 0.24
   22:
     material: "RED_MUSHROOM"
-    buy: 2
+    buy: -1
     sell: 0.5
   23:
     material: "SUGAR_CANE"
-    buy: 0.1
+    buy: 6
     sell: 0.02
   24:
     material: "WARPED_FUNGUS"
-    buy: 2
+    buy: -1
     sell: 0.4
   25:
     material: "WHEAT"
-    buy: 1
+    buy: 4
     sell: 0.1
   26:
     material: "WHEAT_SEEDS"
-    buy: 0.5
+    buy: 3
     sell: 0.05
 
 #==================== Food ====================#
@@ -1375,75 +1375,75 @@ Food:
   1:
     material: "APPLE"
     buy: 5
-    sell: 1
+    sell: 0.4
   2:
     material: "BREAD"
-    buy: 3
+    buy: 5
     sell: 0.4
   3:
     material: "CAKE"
-    buy: 20
-    sell: 2
+    buy: 25
+    sell: 0.75
   4:
     material: "COOKED_SALMON"
     buy: 4
-    sell: 1
+    sell: 0.5
   5:
     material: "COOKIE"
-    buy: 2
+    buy: 1
     sell: 0.2
   6:
     material: "HONEY_BOTTLE"
-    buy: 5
-    sell: 1
+    buy: -1
+    sell: 0.5
   7:
     material: "BAKED_POTATO"
-    buy: 2
-    sell: 0.9
+    buy: 3
+    sell: 0.3
   8:
     material: "COOKED_BEEF"
-    buy: 3
+    buy: 5
     sell: 0.50
   9:
     material: "COOKED_CHICKEN"
-    buy: 3
+    buy: 5
     sell: 0.50
   10:
     material: "COOKED_MUTTON"
-    buy: 3
+    buy: 5
     sell: 0.50
   11:
     material: "COOKED_PORKCHOP"
-    buy: 3
+    buy: 5
     sell: 0.50
   12:
     material: "COOKED_RABBIT"
-    buy: 3
+    buy: 8
     sell: 0.50
   13:
     material: "BEEF"
-    buy: 2
+    buy: 3
     sell: 0.4
   14:
     material: "CHICKEN"
-    buy: 2
+    buy: 3
     sell: 0.4
   15:
     material: "MUTTON"
-    buy: 2
+    buy: 3
     sell: 0.4
   16:
     material: "PORKCHOP"
-    buy: 2
+    buy: 3
     sell: 0.4
   17:
     material: "RABBIT"
-    buy: 4
+    buy: 7
     sell: 0.4
   18:
     material: "BEETROOT_SOUP"
-    buy: 5
-    sell: 1
+    buy: -1
+    sell: 0.5
 
 #==================== Mobs ====================#
 
