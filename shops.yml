@@ -302,7 +302,7 @@ Blocks:
     sell: 20.00
   75:
     material: "OBSIDIAN"
-    buy: 6.00
+    buy: 100
     sell: 3.00
   76:
     material: "PRISMARINE"
@@ -1474,11 +1474,11 @@ Mobs:
     sell: 0.90
   7:
     material: "GHAST_TEAR"
-    buy: 100
+    buy:-1
     sell: 10
   8:
     material: "GUNPOWDER"
-    buy: 6
+    buy: 20
     sell: 0.60
   9:
     material: "MAGMA_CREAM"
@@ -1494,7 +1494,7 @@ Mobs:
     sell: 2
   12:
     material: "RABBIT_FOOT"
-    buy: 50
+    buy: 200
     sell: 10
   13:
     material: "RABBIT_HIDE"
@@ -1575,46 +1575,46 @@ Ores:
   1:
     material: "ANCIENT_DEBRIS"
     buy: -1
-    sell: 100.00
+    sell: 50.00
   2:
     material: "COAL"
-    buy: 10
-    sell: 0.50
+    buy: 15
+    sell: 0.35
   3:
     material: "COAL_BLOCK"
     buy: -1
-    sell: 5.00
+    sell: 3.00
   4:
     material: "DIAMOND"
     buy: -1
-    sell: 0.25
+    sell: 4.69
   5:
     material: "DIAMOND_BLOCK"
     buy: -1
-    sell: 10.00
+    sell: 8.69
   6:
     material: "EMERALD"
     buy: -1
-    sell: 0.40
+    sell: 0.69
   7:
     material: "EMERALD_BLOCK"
     buy: -1
-    sell: 12.00
+    sell: 3.69
   8:
     material: "GOLD_BLOCK"
     buy: -1
-    sell: 0.75
+    sell: 4.00
   9:
     material: "GOLD_INGOT"
-    buy: 6
+    buy: 15
     sell: 0.25
   10:
     material: "IRON_BLOCK"
     buy: -1
-    sell: 8.00
+    sell: 3.00
   11:
     material: "IRON_INGOT"
-    buy: 21
+    buy: 7
     sell: 0.10
   12:
     material: "LAPIS_BLOCK"
@@ -1631,7 +1631,7 @@ Ores:
   15:
     material: "NETHERITE_INGOT"
     buy: -1
-    sell: 20.00
+    sell: 15.00
   16:
     material: "QUARTZ"
     buy: -1
@@ -1647,30 +1647,30 @@ Ores:
   19:
     material: "REDSTONE_BLOCK"
     buy: -1
-    sell: 0.10
+    sell: 0.20
 
 #==================== Others ====================#
 
 Others:
   1:
     material: "ANVIL"
-    buy: 713.32
-    sell: 100.00
+    buy: -1
+    sell: 15.00
   2:
     material: "BELL"
     buy: -1
-    sell: 20
+    sell: 8
   3:
     material: "CARROT_ON_A_STICK"
     buy: -1
     sell: -1
   4:
     material: "COBWEB"
-    buy: 50.00
-    sell: 1.25
+    buy: -1
+    sell: 0.15
   5:
     material: "COD_BUCKET"
-    buy: 79.56
+    buy: 500.56
     sell: -1
   6:
     material: "ELYTRA"
@@ -1686,24 +1686,25 @@ Others:
     sell: 0.15
   9:
     material: "EXPERIENCE_BOTTLE"
-    buy: 150.00
-    sell: -1
+    buy: -1
+    sell: 0.09
   10:
     material: "GLOWSTONE_DUST"
-    buy: 7
-    sell: 0.75
+    buy: -1
+    sell: 0.15
   11:
     material: "HONEYCOMB"
-    buy: 1.15
+    buy: 85
     sell: 0.79
   12:
     material: "LAVA_BUCKET"
-    buy: 20.00
-    sell: -1
+    buy: 99.00
+    sell: -1 
   13:
     material: "LEAD"
-    buy: 25.33
-    sell: 0.50
+    buy: 50
+  
+   sell: 0.50
   14:
     material: "LILY_PAD"
     buy: 30
@@ -1711,11 +1712,11 @@ Others:
   15:
     material: "LODESTONE"
     buy: -1
-    sell: 250.69
+    sell: 20
   16:
     material: "MAP"
     buy: -1
-    sell: 16.83
+    sell: 1.83
   17:
     material: "NAME_TAG"
     buy: 268.69
@@ -1723,10 +1724,10 @@ Others:
   18:
     material: "NETHER_STAR"
     buy: -1
-    sell: 35
+    sell: 100
   19:
     material: "PUFFERFISH_BUCKET"
-    buy: 79.69
+    buy: 500.69 
     sell: -1
   20:
     material: "RED_BED"
@@ -2870,20 +2871,21 @@ Redstone:
     buy: 88.2
     sell: 0.05
 
+
 #==================== SpawnEggs ====================#
 
 SpawnEggs:
   1:
     material: "BAT_SPAWN_EGG"
-    buy: 999999999
+    buy: 50000
     sell: -1
   2:
     material: "BLAZE_SPAWN_EGG"
-    buy: 999999999
+    buy: 90000
     sell: -1
   3:
     material: "CAT_SPAWN_EGG"
-    buy: 999999999
+    buy: 190000
     sell: -1
   4:
     material: "CAVE_SPIDER_SPAWN_EGG"
@@ -2927,7 +2929,7 @@ SpawnEggs:
     sell: -1
   14:
     material: "ENDERMITE_SPAWN_EGG"
-    buy: 999999999
+    buy: -1
     sell: -1
   15:
     material: "EVOKER_SPAWN_EGG"
@@ -2939,7 +2941,7 @@ SpawnEggs:
     sell: -1
   17:
     material: "GHAST_SPAWN_EGG"
-    buy: 999999999
+    buy: 500000
     sell: -1
   18:
     material: "GUARDIAN_SPAWN_EGG"
@@ -3047,7 +3049,7 @@ SpawnEggs:
     sell: -1
   44:
     material: "SLIME_SPAWN_EGG"
-    buy: 999999999
+    buy: -1
     sell: -1
   45:
     material: "SPIDER_SPAWN_EGG"
@@ -3099,7 +3101,7 @@ SpawnEggs:
     sell: -1
   57:
     material: "WITHER_SKELETON_SPAWN_EGG"
-    buy: 999999999
+    buy: -1
     sell: -1
   58:
     material: "WOLF_SPAWN_EGG"
@@ -3926,8 +3928,8 @@ Z_EverythingElse:
     sell: 27.49
   142:
     material: "DRAGON_EGG"
-    buy: 5000
-    sell: 1250
+    buy: -1
+    sell: -1
   143:
     material: "DRAGON_HEAD"
     buy: -1
@@ -4658,7 +4660,7 @@ Z_EverythingElse:
     sell: 0.25
   325:
     material: "POISONOUS_POTATO"
-    buy: -1
+    buy: 100
     sell: 15
   326:
     material: "POLISHED_BASALT"
