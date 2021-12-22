@@ -1035,229 +1035,229 @@ Enchanting:
   1:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 30
+    sell: 4
     enchantments:
     - "WATER_WORKER:1"
   2:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 100
+    sell: 14
     enchantments:
     - "DAMAGE_ARTHROPODS:5"
   3:
     material: "ENCHANTED_BOOK"
-    buy: 100
-    sell: 30
+    buy: -1
+    sell: 2
     enchantments:
     - "BINDING_CURSE:1"
   4:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 14
     enchantments:
     - "PROTECTION_EXPLOSIONS:4"
   5:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 50
+    sell: 13
     enchantments:
     - "CHANNELING:1"
   6:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 35
+    sell: 19
     enchantments:
     - "DEPTH_STRIDER:3"
   7:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 100
+    sell: 7
     enchantments:
     - "DIG_SPEED:5"
   8:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 90
+    sell: 11
     enchantments:
     - "PROTECTION_FALL:4"
   9:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 40
+    sell: 3
     enchantments:
     - "FIRE_ASPECT:2"
   10:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 45
+    sell: 11
     enchantments:
     - "PROTECTION_FIRE:4"
   11:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 40
+    sell: 3
     enchantments:
     - "ARROW_FIRE:1"
   12:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 7
     enchantments:
     - "LOOT_BONUS_BLOCKS:3"
   13:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 45
+    sell: 18
     enchantments:
     - "FROST_WALKER:2"
   14:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 150
+    sell: 20
     enchantments:
     - "IMPALING:5"
   15:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 50
+    sell: 4.5
     enchantments:
     - "ARROW_INFINITE:1"
   16:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 50
+    sell: 7
     enchantments:
     - "KNOCKBACK:2"
   17:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 55
+    sell: 5
     enchantments:
     - "LOOT_BONUS_MOBS:3"
   18:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 100
+    sell: 12
     enchantments:
     - "LOYALTY:3"
   19:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 60
+    sell: 13
     enchantments:
     - "LUCK:3"
   20:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 60
+    sell: 5
     enchantments:
     - "LURE:3"
   21:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 5
     enchantments:
     - "MENDING:1"
   22:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 40
+    sell: 18
     enchantments:
     - "MULTISHOT:1"
   23:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 40
+    sell: 18
     enchantments:
     - "PIERCING:4"
   24:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 29
     enchantments:
     - "ARROW_DAMAGE:5"
   25:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 29
     enchantments:
     - "PROTECTION_PROJECTILE:4"
   26:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 120
+    sell: 29
     enchantments:
     - "PROTECTION_ENVIRONMENTAL:4"
   27:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 33
     enchantments:
     - "ARROW_KNOCKBACK:2"
   28:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 60
+    sell: 18
     enchantments:
     - "QUICK_CHARGE:3"
   29:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 50
+    sell: 23
     enchantments:
     - "OXYGEN:3"
   30:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 120
+    sell: 31
     enchantments:
     - "RIPTIDE:3"
   31:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 100
+    sell: 16
     enchantments:
     - "DAMAGE_ALL:5"
   32:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 10
     enchantments:
     - "SILK_TOUCH:1"
   33:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 35
     enchantments:
     - "DAMAGE_UNDEAD:5"
   34:
     material: "ENCHANTED_BOOK"
-    buy: 1000
-    sell: 500
+    buy: 500
+    sell: 10
     enchantments:
     - "SOUL_SPEED:3"
   35:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 60
+    sell: 45
     enchantments:
     - "SWEEPING_EDGE:3"
   36:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 50
     enchantments:
     - "THORNS:3"
   37:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 80
+    sell: 30
     enchantments:
     - "DURABILITY:3"
   38:
     material: "ENCHANTED_BOOK"
     buy: -1
-    sell: 60
+    sell: 2
     enchantments:
     - "VANISHING_CURSE:1"
 
