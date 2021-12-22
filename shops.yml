@@ -2341,212 +2341,212 @@ Potions:
     - "strong_turtle_master"
   71:
     material: "LINGERING_POTION"
-    buy: 147.31
-    sell: 36.83
+    buy: -1
+    sell: -1
     potiontypes:
     - "fire_resistance"
   72:
     material: "LINGERING_POTION"
-    buy: 158.22
-    sell: 39.56
+    buy: -1
+    sell: -1
     potiontypes:
     - "harming"
   73:
     material: "LINGERING_POTION"
-    buy: 170.54
-    sell: 42.64
+    buy: -1
+    sell: -1
     potiontypes:
     - "healing"
   74:
     material: "LINGERING_POTION"
-    buy: 189.42
-    sell: 47.36
+    buy: -1
+    sell: -1
     potiontypes:
     - "invisibility"
   75:
     material: "LINGERING_POTION"
-    buy: 352.15
-    sell: 88.04
+    buy: -1
+    sell: -1
     potiontypes:
     - "leaping"
   76:
     material: "LINGERING_POTION"
-    buy: 175.54
-    sell: 43.89
+    buy: -1
+    sell: -1
     potiontypes:
     - "night_vision"
   77:
     material: "LINGERING_POTION"
-    buy: 146.11
-    sell: 36.53
+    buy: -1
+    sell: -1
     potiontypes:
     - "poison"
   78:
     material: "LINGERING_POTION"
-    buy: 185.41
-    sell: 46.36
+    buy: -1
+    sell: -1
     potiontypes:
     - "regeneration"
   79:
     material: "LINGERING_POTION"
-    buy: 286.83
-    sell: 71.71
+    buy: -1
+    sell: -1
     potiontypes:
     - "slow_falling"
   80:
     material: "LINGERING_POTION"
-    buy: 149.52
-    sell: 37.38
+    buy: -1
+    sell: -1
     potiontypes:
     - "slowness"
   81:
     material: "LINGERING_POTION"
-    buy: 140.9
-    sell: 35.23
+    buy: -1
+    sell: -1
     potiontypes:
     - "strength"
   82:
     material: "LINGERING_POTION"
-    buy: 137.9
-    sell: 34.48
+    buy: -1
+    sell: -1
     potiontypes:
     - "swiftness"
   83:
     material: "LINGERING_POTION"
-    buy: 3451.77
-    sell: 862.95
+    buy: -1
+    sell: -1
     potiontypes:
     - "turtle_master"
   84:
     material: "LINGERING_POTION"
-    buy: 144.92
-    sell: 36.23
+    buy: -1
+    sell: -1
     potiontypes:
     - "water_breathing"
   85:
     material: "LINGERING_POTION"
-    buy: 145.37
-    sell: 36.35
+    buy: -1
+    sell: -1
     potiontypes:
     - "weakness"
   86:
     material: "LINGERING_POTION"
-    buy: 154.36
-    sell: 38.59
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_fire_resistance"
   87:
     material: "LINGERING_POTION"
-    buy: 199
-    sell: 49.75
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_invisibility"
   88:
     material: "LINGERING_POTION"
-    buy: 184.29
-    sell: 46.08
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_night_vision"
   89:
     material: "LINGERING_POTION"
-    buy: 153.09
-    sell: 38.28
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_poison"
   90:
     material: "LINGERING_POTION"
-    buy: 194.75
-    sell: 48.69
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_regeneration"
   91:
     material: "LINGERING_POTION"
-    buy: 302.25
-    sell: 75.57
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_slow_falling"
   92:
     material: "LINGERING_POTION"
-    buy: 156.71
-    sell: 39.18
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_slowness"
   93:
     material: "LINGERING_POTION"
-    buy: 147.57
-    sell: 36.9
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_strength"
   94:
     material: "LINGERING_POTION"
-    buy: 144.39
-    sell: 36.1
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_swiftness"
   95:
     material: "LINGERING_POTION"
-    buy: 3657.1
-    sell: 914.28
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_turtle_master"
   96:
     material: "LINGERING_POTION"
-    buy: 151.83
-    sell: 37.96
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_water_breathing"
   97:
     material: "LINGERING_POTION"
-    buy: 152.31
-    sell: 38.08
+    buy: -1
+    sell: -1
     potiontypes:
     - "long_weakness"
   98:
     material: "LINGERING_POTION"
-    buy: 194.7
-    sell: 48.68
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_harming"
   99:
     material: "LINGERING_POTION"
-    buy: 207.75
-    sell: 51.94
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_healing"
   100:
     material: "LINGERING_POTION"
-    buy: 400.26
-    sell: 100.07
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_leaping"
   101:
     material: "LINGERING_POTION"
-    buy: 181.85
-    sell: 45.47
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_poison"
   102:
     material: "LINGERING_POTION"
-    buy: 223.52
-    sell: 55.88
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_regeneration"
   103:
     material: "LINGERING_POTION"
-    buy: 176.33
-    sell: 44.09
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_strength"
   104:
     material: "LINGERING_POTION"
-    buy: 173.15
-    sell: 43.29
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_swiftness"
   105:
     material: "LINGERING_POTION"
-    buy: 3685.86
-    sell: 921.47
+    buy: -1
+    sell: -1
     potiontypes:
     - "strong_turtle_master"
   106:
