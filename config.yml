@@ -1,6 +1,6 @@
 # More info about all of the options can be found at the EconomyShopGUI wiki
 # https://gpplugins.gitbook.io/economyshopgui/file-configuration/config.yml
-
+#
 config-version: 1.1.6
 # WARNING: Do not change this value as this might end up in a plugin that does not work!!
 #----------------------------------------------Language-------------------------------------------------
@@ -87,116 +87,10 @@ drop-remaining-items-on-ground: false
 
 #-----------------------------------------------MainShop------------------------------------------------
 
-# Set the size of the main shop inventory in rows
+# Set the size of the main shop inventory
 # Possible values: 2 | 3 | 4 | 5 | 6
 mainshop-size: 6
-# Note that the navigation bar also is 1 row which can't be disabled
-
-
-#--------------------------------------------NavigationBar----------------------------------------------
-
-# These settings allow you to customize the items in the bottom row of the GUI, aka the navigation bar
-# Valid placeholders:
-# %player_name% = the player name
-# %player_balance% = the player's balance
-# %player_level% = the player's ingame experience level
-# %translations-money% = the translated message of 'money'
-# %translations-level% = the translated message of 'level'
-# %translations-previous-page% = the translated message of 'previous-page'
-# %translations-current-page% = the translated message of 'current-page'
-# %translations-next-page% = the translated message of 'next-page'
-# %translations-back% = the translated message of 'back'
-# %translations-cancel% = the translated message of 'cancel'
-# Valid actions:
-# PAGE_BACK = Open the previous page when clicked
-# PAGE_NEXT = Open the next page when clicked
-# BACK = Open the previous menu when clicked
-
-# The navigation bar that appears in the main menu
-main-menu-nav-bar:
-  1:
-    material: player_head
-    skullowner: "%player_name%"
-    name: "%player_name%"
-    lore:
-      - "%translations-money%: &c%player_balance%"
-  2:
-    material: air
-  3:
-    material: air
-  4:
-    material: air
-  5:
-    material: air
-  6:
-    material: air
-  7:
-    material: air
-  8:
-    material: air
-  9:
-    material: barrier
-    name: "%translations-cancel%"
-    action: BACK
-
-# The navigation bar that appears in every shop category
-shops-nav-bar:
-  1:
-    material: player_head
-    skullowner: "%player_name%"
-    name: "%player_name%"
-    lore:
-      - "%translations-money%: &c%player_balance%"
-  2:
-    material: air
-  3:
-    material: air
-  4:
-    material: red_stained_glass_pane
-    name: "%translations-previous-page%"
-    action: PAGE_BACK
-  5:
-    material: paper
-    name: "%translations-current-page%"
-  6:
-    material: blue_stained_glass_pane
-    name: "%translations-next-page%"
-    action: PAGE_NEXT
-  7:
-    material: air
-  8:
-    material: air
-  9:
-    material: barrier
-    name: "%translations-back%"
-    action: BACK
-
-# The navigation bar that appears in the buy/sell screens and the buy stacks screen
-transaction-screens-nav-bar:
-  1:
-    material: player_head
-    skullowner: "%player_name%"
-    name: "%player_name%"
-    lore:
-      - "%translations-money%: &c%player_balance%"
-  2:
-    material: air
-  3:
-    material: air
-  4:
-    material: air
-  5:
-    material: air
-  6:
-    material: air
-  7:
-    material: air
-  8:
-    material: air
-  9:
-    material: barrier
-    name: "%translations-back%"
-    action: BACK
+# Note that the navigation bar also is 1 row which can't be disabled currently
 
 
 #---------------------------------------------ItemSettings----------------------------------------------
@@ -206,10 +100,6 @@ bought-items-lore: true
 
 # Allows enchants greater than the max that Mojang has specified.
 allow-unsafe-enchants: true
-
-# This option will toggle whether non-stackable/over-stacked items are allowed inside the shop
-# When having troubles with illegal-stack plugins and this plugin, disable this option to limit item stacking to their natural stack size to prevent future issues
-allow-illegal-stacks: true
 
 # The NBT Tags listed below will be ignored when a item gets sold to the shop
 # For example:
@@ -302,9 +192,6 @@ commands:
   # With this command you can add/remove items without configuring the shops config
   editshop: true
 
-  # This command opens a sell GUI to sell items
-  sellgui: true
-
 # Set different aliases for the main shop command, defaults to /shop if empty
 # Do not use a slash('/') before the command name or it will not work
 shop-commands:
@@ -314,10 +201,6 @@ shop-commands:
 # Set different aliases for the sellall command, defaults to /sellall if empty
 sellall-commands:
   - "sellall"
-
-# Set different aliases for the sellgui command, defaults to /sellgui if empty
-sellgui-commands:
-  - "sellgui"
 
 #-------------------------------------------DisableBackButton-------------------------------------------
 
